@@ -1,0 +1,3 @@
+#main.js
+
+print("Potato")
